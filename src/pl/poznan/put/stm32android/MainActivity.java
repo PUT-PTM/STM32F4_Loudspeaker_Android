@@ -130,7 +130,9 @@ public class MainActivity extends Activity implements View.OnClickListener {
 			Log.e("Init", "B³¹d uruchamiania", e);
 		}
 	}
-
+	
+	//konfiguracja receivera
+	
 	private void setupReceiver() {
 		myTimer.schedule(new TimerTask() {
 			@Override
