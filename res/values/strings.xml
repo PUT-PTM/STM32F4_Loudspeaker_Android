@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">STM32F4 Głośnik</string>
+    <string name="receiveDataFormat">Format otrzymywanych danych</string>
+    <string name="integer">Integer</string>
+    <string name="hexadecimal">Hexadecimal</string>
+    <string name="binary">Binary</string>
+    <string name="text">Char</string>
+    <string name="delimiter">Delimiter</string>
+    <string name="delimiterNone">Delimiter - None</string>
+    <string name="delimiterNewLine">Delimiter - New Line</string>
+    <string name="delimiterSpace">Delimiter - Space</string>
+    <string name="connected">Połączono</string>
+    <string name="disconnected">Nie połączono</string>
+	<string name="selectHIDDevice">Wybierz urządzenie HID</string>
+	<string name="send">Wyślij</string>
+	<string name="clear">Czyść</string>
+	<string name="sendText">Tekst</string>
+	<string name="sendData">Bajty</string>
+	<string name="p1">1</string>
+	<string name="p2">2</string>
+	<string name="p3">3</string>
+	<string name="p4">4</string>
+	<string name="p5">5</string>
+	<string name="p6">6</string>
+	<string name="p7">7</string>
+</resources>
