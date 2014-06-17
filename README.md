@@ -14,4 +14,4 @@ Sterowniki i narzędzia dla mikrokontrolera STM32F4xx
 ===========================
 
 Sterowniki dla STM32F4xx: http://www.st.com/web/en/catalog/tools/PF258167
-Kompilatro ARM-GCC from: https://launchpad.net/gcc-arm-embedded/+download
+Kompilator ARM-GCC from: https://launchpad.net/gcc-arm-embedded/+download
